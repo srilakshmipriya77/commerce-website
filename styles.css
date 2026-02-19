@@ -1,0 +1,62 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    background-color: #232f3e;
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+}
+.title{
+    text-align: center;
+    color: rgb(255, 253, 253);
+    font-weight: 700; 
+    letter-spacing: -0.5px;
+}
+.buy-now-button{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f08804;
+    margin: 10px;
+}
+.add-to-cart-button{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ffa41c;
+    margin: 10px;
+}
+
+.button{
+    background-color: #f08a04;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+}
+.section{
+    background-color: #f3f3f3;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 15px;
+}
+.product{
+    padding: 10px 10px;
+    background-color: white;
+    outline: 1px solid #ddd;
+    margin:20px;
+    border-radius: 10px;
+}
+.input{
+    padding: 10px;
+    border-radius: 5px;
+}
+.sub-section{
+    outline:1px solid #303030;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+    padding:15px;
+    margin:10px;
+}
